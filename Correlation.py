@@ -1,1 +1,1 @@
-Findung Correlation on pythin for n observation
+Findong Correlation on pythin for n observation
