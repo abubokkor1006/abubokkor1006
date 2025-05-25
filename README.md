@@ -1,9 +1,20 @@
--  Hi, I’m @abubokkor1006
--  I’m interested in Data Science
--  I’m currently learning in BSc in Statistics 
--  I’m looking to collaborate on this field 
+👋 Welcome to My GitHub
+Hi, I'm Md. Abu Bokkor Shiddik, a passionate data analyst and researcher with a background in Statistics. I use this GitHub to share my work in data science, machine learning, and statistical analysis, with a focus on health analytics, communicable diseases, and explainable AI (XAI).
 
-<!---
-abubokkor1006/abubokkor1006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Key Areas of Interest:
+
+Health data analytics and visualization
+
+Predictive modeling using R and Python
+
+Research on public health, mortality, and socioeconomic factors
+
+Spatial and temporal data analysis
+
+Open-source contributions and academic projects
+
+🛠️ Tools & Technologies:
+R, Python,  Excel,  SPSS.
+
+📊 Most of my repositories include code, data, and documentation from academic and personal projects aimed at solving real-world problems through data.
+
