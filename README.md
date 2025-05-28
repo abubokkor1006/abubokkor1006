@@ -16,5 +16,7 @@ Open-source contributions and academic projects
 🛠️ Tools & Technologies:
 R, Python,  Excel,  SPSS.
 
-📊 Most of my repositories include code, data, and documentation from academic and personal projects aimed at solving real-world problems through data.
+## 📚 Publications
+Rahman, M. S., & **Shiddik, A. B.** (2025). **Utilizing artificial intelligence to predict and analyze socioeconomic, environmental, and healthcare factors driving tuberculosis globally.** Scientific Reports, 15(1), 13619.  [DOI]( https://doi.org/10.1038/s41598-025-96973-w)
 
+2. -Rahman, M. S., Amrin, M., & **Bokkor Shiddik, M. A.** (2025). **Dengue Early Warning System and Outbreak Prediction Tool in Bangladesh Using Interpretable Tree‐Based Machine Learning Model**. Health Science Reports, 8(5), e70726. [DOI]( https://doi.org/10.1002/hsr2.70726)
