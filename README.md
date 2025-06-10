@@ -21,4 +21,4 @@ R, Python,  Excel,  SPSS.
 
 2. -Rahman, M. S., Amrin, M., & **Bokkor Shiddik, M. A.** (2025). **Dengue Early Warning System and Outbreak Prediction Tool in Bangladesh Using Interpretable Tree‐Based Machine Learning Model**. Health Science Reports, 8(5), e70726. [DOI: 10.1002/hsr2.70726]( https://doi.org/10.1002/hsr2.70726)
 
-3. Rahman, M. S., & **Shiddik, M. A. B.** (2025). Explainable artificial intelligence for predicting dengue outbreaks in Bangladesh using eco-climatic triggers. Global Epidemiology, 100210. [DOI](https://doi.org/10.1016/j.gloepi.2025.100210)
+3. Rahman, M. S., & **Shiddik, M. A. B.** (2025). Explainable artificial intelligence for predicting dengue outbreaks in Bangladesh using eco-climatic triggers. Global Epidemiology, 100210. [DOI:10.1016/j.gloepi.2025.100210](https://doi.org/10.1016/j.gloepi.2025.100210)
